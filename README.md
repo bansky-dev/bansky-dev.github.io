@@ -1,1 +1,1 @@
-#To część zadania
+# To część zadania
