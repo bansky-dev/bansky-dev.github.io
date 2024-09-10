@@ -1,1 +1,1 @@
-# bansky-dev.github.io
+#To część zadania
